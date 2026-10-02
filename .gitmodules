@@ -1,0 +1,3 @@
+[submodule "gems-prize-reference-solution"]
+	path = gems-prize-reference-solution
+	url = https://github.com/drivendataorg/gems-prize-reference-solution.git

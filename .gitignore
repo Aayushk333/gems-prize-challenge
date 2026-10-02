@@ -1,0 +1,25 @@
+# Competition data must be downloaded independently from DrivenData.
+*.tif
+*.tiff
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local tooling and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Model artifacts and experiment outputs
+checkpoints/
+models/
+outputs/
+*.pt
+*.pth
+*.ckpt
+
